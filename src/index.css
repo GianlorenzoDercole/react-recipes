@@ -40,13 +40,24 @@ input{
   height: 40px;
   font-size: 26px;
   margin-top: -20px;
+  outline: none;
+
 }
+
 h1{
   color:#4C6793;
   font-size: 60px;
 }
+
 .labelForIngredients{
   text-decoration: underline;
 }
-/* /////////////////////////// */
+h2 {
+  color: #4C6793
+}
 
+.searchButton{
+  height: 60px;
+}
+
+/* /////////////////////////// */
