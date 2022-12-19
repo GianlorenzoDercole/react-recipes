@@ -55,7 +55,8 @@ h1{
 }
 
 .labelForIngredients{
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  font-size: 30px;
 }
 h2 {
   color: #4C6793
